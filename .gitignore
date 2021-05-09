@@ -1,0 +1,8 @@
+BUILD
+.mbed
+mbed-os
+.circleci
+.github
+*.0
+*.i
+*.hg
